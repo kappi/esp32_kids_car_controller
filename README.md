@@ -66,7 +66,7 @@ cd esp32_kids_car_controller
 #### Control the Car:
 - Use the left joystick on the PS3 controller to control the speed and direction of the car.
 - The right joystick controls the steering.
-- The "X" button on the PS3 controller engages the total stop feature, which immediately halts the car.
+- The "X" button on the PS3 controller engages the total stop feature, which immediately halts the car and "Circle" button to release.
 
 #### Local Throttle Control:
 - Adjust the potentiometer to manually control the speed if no significant input is received from the PS3 controller.
