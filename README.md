@@ -2,7 +2,7 @@
 
 This project utilizes an ESP32 microcontroller to control a children's car and support prioritised remote-controller using a PS3 controller over Bluetooth. The car's motor speed is managed by an Electronic Speed Controller (ESC), and a high-torque servo is used for steering. Additionally, a local throttle control via a potentiometer is integrated, with the PS3 controller having priority control. A "total stop" feature is also implemented using the PS3 controller's "X" button and release pushing "Circle" button.
 
-![image](https://github.com/user-attachments/assets/a18989b1-fa3c-434d-880f-6aba1d5a81f6)
+![image](https://github.com/user-attachments/assets/a18989b1-fa3c-434d-880f-6aba1d5a81f6| width=100)
 
 
 ## Features
